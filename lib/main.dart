@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:music_app/Models/playlist_provider.dart';
 import 'package:music_app/components/Themes/light_theme.dart';
-import 'package:music_app/songs_page.dart';
+import 'package:music_app/play_list_page.dart';
 import 'package:provider/provider.dart';
 
 void main() {
